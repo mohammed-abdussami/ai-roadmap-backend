@@ -2,3 +2,6 @@ pb_data
 utils
 main
 liara.json
+.env
+.env.local
+.env*.local
