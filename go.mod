@@ -3,6 +3,11 @@ module ai-roadmap.com
 go 1.20
 
 require (
+	github.com/labstack/echo/v5 v5.0.0-20220201181537-ed2888cfa198
+	github.com/pocketbase/pocketbase v0.14.0
+)
+
+require (
 	github.com/AlecAivazis/survey/v2 v2.3.6 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aws/aws-sdk-go v1.44.231 // indirect
@@ -41,13 +46,11 @@ require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/labstack/echo/v5 v5.0.0-20220201181537-ed2888cfa198 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.18 // indirect
 	github.com/mattn/go-sqlite3 v1.14.16 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/pocketbase/dbx v1.10.0 // indirect
-	github.com/pocketbase/pocketbase v0.14.0 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/cobra v1.6.1 // indirect
